@@ -1,12 +1,10 @@
 Name: x11-apps
 Version: 1.0.0
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: X11 apps
 Group: Development/X11
 BuildArch: noarch
 License: GPL
-Packager: Gustavo Pichorim Boiko <boiko@mandriva.com>
-
 Requires: beforelight
 Requires: bitmap
 Requires: ico
@@ -38,6 +36,3 @@ X11 apps
 
 %files
 %defattr(-,root,root)
-
-
-
