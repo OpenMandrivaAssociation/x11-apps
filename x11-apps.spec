@@ -1,11 +1,10 @@
 Name: x11-apps
 Version: 1.0.0
-Release: %mkrel 5
+Release: %mkrel 6
 Summary: X11 apps
 Group: Development/X11
 BuildArch: noarch
-License: GPL
-Requires: beforelight
+License: MIT
 Requires: bitmap
 Requires: ico
 Requires: oclock
@@ -13,11 +12,8 @@ Requires: xbiff
 Requires: xcalc
 Requires: xclipboard
 Requires: xclock
-Requires: xdbedizzy
-Requires: xditview
 Requires: xedit
 Requires: xeyes
-Requires: xf86dga
 Requires: xfd
 Requires: xfontsel
 Requires: xgc
@@ -26,8 +22,6 @@ Requires: xlogo
 Requires: xman
 Requires: xmag
 Requires: xmessage
-Requires: xmore
-Requires: xpr
 Requires: xwd
 Requires: xwud
 
