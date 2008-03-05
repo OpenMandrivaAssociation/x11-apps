@@ -1,6 +1,6 @@
 Name: x11-apps
 Version: 1.0.0
-Release: %mkrel 6
+Release: %mkrel 7
 Summary: X11 apps
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
