@@ -1,6 +1,6 @@
 Name:		x11-apps
 Version:	1.0.0
-Release:	23
+Release:	24
 Summary:	X11 apps
 Group:		Development/X11
 BuildArch:	noarch
